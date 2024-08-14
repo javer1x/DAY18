@@ -1,0 +1,10 @@
+Add two numbers
+Create a c++ program that takes two numbers as input and print their sum
+Find the maximum of two numbers
+Wrire a c++ program that takes two numbers as input and displays the larger of the two
+Print a number multiplication table
+Develop c++ program that prints the table for given number intered by user
+Print your name
+Write a c++ program that asks the user to input their name and then print it
+Print"HELLO,WORLD"
+Write a c++ program that prints "HELLO,WORLD"to the console
